@@ -1,5 +1,7 @@
 # DA6401_DL_ASSIGNMENT_02_Subikksha
 
+Link to wandb report: https://wandb.ai/subikksha-indian-institute-of-technology-madras/DA6401_DL_ASSIGNMENT_02_PART_A/reports/Subikksha-S-DA24D004-DA6401-Assignment-2--VmlldzoxMjM3MTAzMg?accessToken=2sbpo02c6rh7x0vlqbevd39zcfbm2dcri8wewlvdxk7o643bd7m8qb4cxtcuib6g
+
 This repository contains the code for Assignment 2 of the course **Introduction to Deep Learning (DA6401)** offered by the **Department of Data Science and Artificial Intelligence, IIT Madras**.
 
 ## Problem Statement
