@@ -1,4 +1,4 @@
-# DA6401_DL_ASSIGNMENT_02_PART_A_Subikksha
+# DA6401_DL_ASSIGNMENT_02_Subikksha
 
 This repository contains the code for Assignment 2 of the course **Introduction to Deep Learning (DA6401)** offered by the **Department of Data Science and Artificial Intelligence, IIT Madras**.
 
